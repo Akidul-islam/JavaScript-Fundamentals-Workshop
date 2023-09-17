@@ -1,0 +1,9 @@
+{
+  "name": "JavaScript_Fundamentals",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type":"module",
+  "repository": "https://github.com/Demojsdev/JavaScript-Fundamentals",
+  "author": "Demojsdev <145244812+Demojsdev@users.noreply.github.com>",
+  "license": "MIT"
+}
