@@ -1,1 +1,2 @@
-import '../Advance_Concepts/HigherOrderFunc/higherOrderFunc.js'
+
+import "../Advance_Concepts/HigherOrderFunc/hof.js"
